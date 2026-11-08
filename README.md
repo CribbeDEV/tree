@@ -9,7 +9,7 @@ in bold blue.
 ├── CMakeLists.txt
 ├── README.md
 ├── build
-│   ├── ...
+│   └── ...
 └── tree.c
 ```
 
